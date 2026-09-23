@@ -1,0 +1,10 @@
+^C:\USERS\EBLAN\DESKTOP\TEST\BUILD-FROM-SCRATCH\CMAKEFILES\A9BFD7C409389168D935629D1DD90517\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/eblan/Desktop/test -BC:/Users/eblan/Desktop/test/build-from-scratch --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/eblan/Desktop/test/build-from-scratch/cs2_offset_esp.slnx
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,4 @@
+.vs/test.slnx/v18/Browse.VC.db filter=lfs diff=lfs merge=lfs -text
+.vs/test.slnx/v18/ipch/AutoPCH/c93d18078f89a3bc/MAIN.ipch filter=lfs diff=lfs merge=lfs -text
+.vs/test.slnx/v18/ipch/AutoPCH/cad46ad25c2df74c/DLLMAIN.ipch filter=lfs diff=lfs merge=lfs -text
+build-linux/CMakeFiles/cs2-sdk.dir/cmake_pch.hxx.gch filter=lfs diff=lfs merge=lfs -text

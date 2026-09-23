@@ -1,0 +1,12 @@
+C:/Users/eblan/Desktop/test/out/build/x64-Debug/CMakeFiles/cs2_offset_esp.dir
+C:/Users/eblan/Desktop/test/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/eblan/Desktop/test/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/eblan/Desktop/test/out/build/x64-Debug/CMakeFiles/list_install_components.dir
+C:/Users/eblan/Desktop/test/out/build/x64-Debug/CMakeFiles/install.dir
+C:/Users/eblan/Desktop/test/out/build/x64-Debug/CMakeFiles/install/local.dir
+C:/Users/eblan/Desktop/test/out/build/x64-Debug/third_party/minhook-build/CMakeFiles/minhook.dir
+C:/Users/eblan/Desktop/test/out/build/x64-Debug/third_party/minhook-build/CMakeFiles/edit_cache.dir
+C:/Users/eblan/Desktop/test/out/build/x64-Debug/third_party/minhook-build/CMakeFiles/rebuild_cache.dir
+C:/Users/eblan/Desktop/test/out/build/x64-Debug/third_party/minhook-build/CMakeFiles/list_install_components.dir
+C:/Users/eblan/Desktop/test/out/build/x64-Debug/third_party/minhook-build/CMakeFiles/install.dir
+C:/Users/eblan/Desktop/test/out/build/x64-Debug/third_party/minhook-build/CMakeFiles/install/local.dir

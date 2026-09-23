@@ -1,0 +1,7 @@
+C:/Users/eblan/Desktop/test/build-velocity/CMakeFiles/cs2_offset_esp.dir
+C:/Users/eblan/Desktop/test/build-velocity/CMakeFiles/INSTALL.dir
+C:/Users/eblan/Desktop/test/build-velocity/CMakeFiles/ALL_BUILD.dir
+C:/Users/eblan/Desktop/test/build-velocity/CMakeFiles/ZERO_CHECK.dir
+C:/Users/eblan/Desktop/test/build-velocity/third_party/minhook-build/CMakeFiles/minhook.dir
+C:/Users/eblan/Desktop/test/build-velocity/third_party/minhook-build/CMakeFiles/INSTALL.dir
+C:/Users/eblan/Desktop/test/build-velocity/third_party/minhook-build/CMakeFiles/ALL_BUILD.dir

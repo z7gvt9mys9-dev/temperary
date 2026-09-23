@@ -1,0 +1,10 @@
+^C:\USERS\EBLAN\DESKTOP\TEST\BUILD-GUI\CMAKEFILES\F7297444A847B5E644582270C008F9D7\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/eblan/Desktop/test -BC:/Users/eblan/Desktop/test/build-gui --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/eblan/Desktop/test/build-gui/cs2_internal_esp.slnx
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

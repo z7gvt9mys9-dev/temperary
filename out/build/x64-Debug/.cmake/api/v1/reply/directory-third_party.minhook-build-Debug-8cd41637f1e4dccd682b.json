@@ -1,0 +1,107 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"third_party/minhook-1.3.4/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 111,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 123,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 130,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 139,
+				"parent" : 0
+			}
+		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 10
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib/minhook",
+			"paths" : 
+			[
+				"out/build/x64-Debug/third_party/minhook-build/minhook-config.cmake",
+				"out/build/x64-Debug/third_party/minhook-build/minhook-config-version.cmake"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"third_party/minhook-build/minhook.x64d.lib"
+			],
+			"targetId" : "minhook::@416c65e368dc72e043b0",
+			"targetIndex" : 1,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "lib/minhook",
+			"exportName" : "minhook-targets",
+			"exportTargets" : 
+			[
+				{
+					"id" : "minhook::@416c65e368dc72e043b0",
+					"index" : 1
+				}
+			],
+			"paths" : 
+			[
+				"third_party/minhook-build/CMakeFiles/Export/8cd3caeda11d93f7061ac4b1345c5ed7/minhook-targets.cmake"
+			],
+			"type" : "export"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"destination" : ".",
+			"paths" : 
+			[
+				"third_party/minhook-1.3.4/include"
+			],
+			"type" : "directory"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "third_party/minhook-build",
+		"source" : "third_party/minhook-1.3.4"
+	}
+}

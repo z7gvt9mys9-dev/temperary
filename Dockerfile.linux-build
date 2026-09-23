@@ -1,0 +1,12 @@
+FROM debian:sid-slim
+
+RUN apt-get update \
+    && DEBIAN_FRONTEND=noninteractive apt-get install -y --no-install-recommends \
+        build-essential \
+        cmake \
+        ninja-build \
+        libsdl3-dev \
+        libvulkan-dev \
+    && rm -rf /var/lib/apt/lists/*
+
+WORKDIR /workspace

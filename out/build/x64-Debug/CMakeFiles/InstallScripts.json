@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/eblan/Desktop/test/out/build/x64-Debug/cmake_install.cmake",
+		"C:/Users/eblan/Desktop/test/out/build/x64-Debug/third_party/minhook-build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
